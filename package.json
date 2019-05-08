@@ -1,0 +1,26 @@
+{
+  "name": "react-native-back-button",
+  "version": "0.2.0",
+  "description": "React Native Back Button",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "back",
+    "button"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-back-button",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native-vector-icons": "^6.4.2",
+    "react-navigation": "^3.9.1"
+  }
+}
